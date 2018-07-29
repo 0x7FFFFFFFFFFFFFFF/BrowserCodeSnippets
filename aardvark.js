@@ -1855,5 +1855,9 @@ function highlightText(elem) {
     }
 };
 
-aardvark.main();
+
+jQuery(function(){
+    aardvark.main();
+})
+
 
